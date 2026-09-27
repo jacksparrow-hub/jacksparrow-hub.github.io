@@ -5,3 +5,4 @@ Sitemap: https://jacksparrow-hub.github.io/sitemap.xml
 Sitemap: https://jacksparrow-hub.github.io/travel/sitemap.xml
 Sitemap: https://jacksparrow-hub.github.io/apps/sitemap.xml
 Sitemap: https://jacksparrow-hub.github.io/blog/sitemap.xml
+Sitemap: https://jacksparrow-hub.github.io/store/sitemap.xml
